@@ -1,0 +1,443 @@
+[
+  {
+    "text": "Мовай.",
+    "startMs": 100,
+    "endMs": 847,
+    "timestampMs": 100,
+    "confidence": 1
+  },
+  {
+    "text": " Читается",
+    "startMs": 1775,
+    "endMs": 2495,
+    "timestampMs": 1775,
+    "confidence": 1
+  },
+  {
+    "text": " мовай.",
+    "startMs": 2495,
+    "endMs": 3039,
+    "timestampMs": 2495,
+    "confidence": 1
+  },
+  {
+    "text": " Мова",
+    "startMs": 3976,
+    "endMs": 4425,
+    "timestampMs": 3976,
+    "confidence": 1
+  },
+  {
+    "text": " дапамогі —",
+    "startMs": 4425,
+    "endMs": 4941,
+    "timestampMs": 4425,
+    "confidence": 1
+  },
+  {
+    "text": " речь",
+    "startMs": 5213,
+    "endMs": 5525,
+    "timestampMs": 5213,
+    "confidence": 1
+  },
+  {
+    "text": " помощи",
+    "startMs": 5525,
+    "endMs": 6041,
+    "timestampMs": 5525,
+    "confidence": 1
+  },
+  {
+    "text": " по",
+    "startMs": 6041,
+    "endMs": 6191,
+    "timestampMs": 6041,
+    "confidence": 1
+  },
+  {
+    "text": " всей",
+    "startMs": 6191,
+    "endMs": 6435,
+    "timestampMs": 6191,
+    "confidence": 1
+  },
+  {
+    "text": " Беларуси.",
+    "startMs": 6435,
+    "endMs": 7169,
+    "timestampMs": 6435,
+    "confidence": 1
+  },
+  {
+    "text": " Это",
+    "startMs": 8367,
+    "endMs": 8733,
+    "timestampMs": 8367,
+    "confidence": 1
+  },
+  {
+    "text": " не",
+    "startMs": 8733,
+    "endMs": 8869,
+    "timestampMs": 8733,
+    "confidence": 1
+  },
+  {
+    "text": " лента",
+    "startMs": 8869,
+    "endMs": 9182,
+    "timestampMs": 8869,
+    "confidence": 1
+  },
+  {
+    "text": " объявлений",
+    "startMs": 9182,
+    "endMs": 9875,
+    "timestampMs": 9182,
+    "confidence": 1
+  },
+  {
+    "text": " и",
+    "startMs": 9875,
+    "endMs": 10051,
+    "timestampMs": 9875,
+    "confidence": 1
+  },
+  {
+    "text": " не",
+    "startMs": 10051,
+    "endMs": 10214,
+    "timestampMs": 10051,
+    "confidence": 1
+  },
+  {
+    "text": " чат",
+    "startMs": 10214,
+    "endMs": 10513,
+    "timestampMs": 10214,
+    "confidence": 1
+  },
+  {
+    "text": " в",
+    "startMs": 10513,
+    "endMs": 10595,
+    "timestampMs": 10513,
+    "confidence": 1
+  },
+  {
+    "text": " пустоту.",
+    "startMs": 10595,
+    "endMs": 11288,
+    "timestampMs": 10595,
+    "confidence": 1
+  },
+  {
+    "text": " Заявка —",
+    "startMs": 12284,
+    "endMs": 13126,
+    "timestampMs": 12284,
+    "confidence": 1
+  },
+  {
+    "text": " точка",
+    "startMs": 13384,
+    "endMs": 13724,
+    "timestampMs": 13384,
+    "confidence": 1
+  },
+  {
+    "text": " на",
+    "startMs": 13724,
+    "endMs": 13833,
+    "timestampMs": 13724,
+    "confidence": 1
+  },
+  {
+    "text": " карте:",
+    "startMs": 13833,
+    "endMs": 14254,
+    "timestampMs": 13833,
+    "confidence": 1
+  },
+  {
+    "text": " двор,",
+    "startMs": 14567,
+    "endMs": 14974,
+    "timestampMs": 14567,
+    "confidence": 1
+  },
+  {
+    "text": " подъезд,",
+    "startMs": 15151,
+    "endMs": 15708,
+    "timestampMs": 15151,
+    "confidence": 1
+  },
+  {
+    "text": " аптека.",
+    "startMs": 15898,
+    "endMs": 16523,
+    "timestampMs": 15898,
+    "confidence": 1
+  },
+  {
+    "text": " Три",
+    "startMs": 17733,
+    "endMs": 18045,
+    "timestampMs": 17733,
+    "confidence": 1
+  },
+  {
+    "text": " шага.",
+    "startMs": 18045,
+    "endMs": 18629,
+    "timestampMs": 18045,
+    "confidence": 1
+  },
+  {
+    "text": " Ставите",
+    "startMs": 19612,
+    "endMs": 20305,
+    "timestampMs": 19612,
+    "confidence": 1
+  },
+  {
+    "text": " заявку.",
+    "startMs": 20305,
+    "endMs": 21011,
+    "timestampMs": 20305,
+    "confidence": 1
+  },
+  {
+    "text": " Кто",
+    "startMs": 21990,
+    "endMs": 22302,
+    "timestampMs": 21990,
+    "confidence": 1
+  },
+  {
+    "text": " включил",
+    "startMs": 22302,
+    "endMs": 22873,
+    "timestampMs": 22302,
+    "confidence": 1
+  },
+  {
+    "text": " смену",
+    "startMs": 22873,
+    "endMs": 23294,
+    "timestampMs": 22873,
+    "confidence": 1
+  },
+  {
+    "text": " рядом —",
+    "startMs": 23294,
+    "endMs": 23702,
+    "timestampMs": 23294,
+    "confidence": 1
+  },
+  {
+    "text": " берёт.",
+    "startMs": 23837,
+    "endMs": 24435,
+    "timestampMs": 23837,
+    "confidence": 1
+  },
+  {
+    "text": " И",
+    "startMs": 25441,
+    "endMs": 25699,
+    "timestampMs": 25441,
+    "confidence": 1
+  },
+  {
+    "text": " идёт",
+    "startMs": 25699,
+    "endMs": 26038,
+    "timestampMs": 25699,
+    "confidence": 1
+  },
+  {
+    "text": " к",
+    "startMs": 26038,
+    "endMs": 26093,
+    "timestampMs": 26038,
+    "confidence": 1
+  },
+  {
+    "text": " вам.",
+    "startMs": 26093,
+    "endMs": 26528,
+    "timestampMs": 26093,
+    "confidence": 1
+  },
+  {
+    "text": " Чат",
+    "startMs": 27452,
+    "endMs": 27927,
+    "timestampMs": 27452,
+    "confidence": 1
+  },
+  {
+    "text": " только",
+    "startMs": 27927,
+    "endMs": 28321,
+    "timestampMs": 27927,
+    "confidence": 1
+  },
+  {
+    "text": " у",
+    "startMs": 28321,
+    "endMs": 28416,
+    "timestampMs": 28321,
+    "confidence": 1
+  },
+  {
+    "text": " сторон",
+    "startMs": 28416,
+    "endMs": 28919,
+    "timestampMs": 28416,
+    "confidence": 1
+  },
+  {
+    "text": " этой",
+    "startMs": 28919,
+    "endMs": 29231,
+    "timestampMs": 28919,
+    "confidence": 1
+  },
+  {
+    "text": " заявки.",
+    "startMs": 29231,
+    "endMs": 29911,
+    "timestampMs": 29231,
+    "confidence": 1
+  },
+  {
+    "text": " Вся",
+    "startMs": 31133,
+    "endMs": 31581,
+    "timestampMs": 31133,
+    "confidence": 1
+  },
+  {
+    "text": " Беларусь.",
+    "startMs": 31581,
+    "endMs": 32287,
+    "timestampMs": 31581,
+    "confidence": 1
+  },
+  {
+    "text": " Любой",
+    "startMs": 33229,
+    "endMs": 33841,
+    "timestampMs": 33229,
+    "confidence": 1
+  },
+  {
+    "text": " город.",
+    "startMs": 33841,
+    "endMs": 34384,
+    "timestampMs": 33841,
+    "confidence": 1
+  },
+  {
+    "text": " Не",
+    "startMs": 35308,
+    "endMs": 35675,
+    "timestampMs": 35308,
+    "confidence": 1
+  },
+  {
+    "text": " только",
+    "startMs": 35675,
+    "endMs": 36096,
+    "timestampMs": 35675,
+    "confidence": 1
+  },
+  {
+    "text": " области.",
+    "startMs": 36096,
+    "endMs": 36816,
+    "timestampMs": 36096,
+    "confidence": 1
+  },
+  {
+    "text": " Нужна",
+    "startMs": 38033,
+    "endMs": 38603,
+    "timestampMs": 38033,
+    "confidence": 1
+  },
+  {
+    "text": " помощь —",
+    "startMs": 38603,
+    "endMs": 39119,
+    "timestampMs": 38603,
+    "confidence": 1
+  },
+  {
+    "text": " поставьте",
+    "startMs": 39323,
+    "endMs": 39935,
+    "timestampMs": 39323,
+    "confidence": 1
+  },
+  {
+    "text": " точку.",
+    "startMs": 39935,
+    "endMs": 40492,
+    "timestampMs": 39935,
+    "confidence": 1
+  },
+  {
+    "text": " Канал",
+    "startMs": 41488,
+    "endMs": 41963,
+    "timestampMs": 41488,
+    "confidence": 1
+  },
+  {
+    "text": " проекта",
+    "startMs": 41963,
+    "endMs": 42425,
+    "timestampMs": 41963,
+    "confidence": 1
+  },
+  {
+    "text": " в",
+    "startMs": 42425,
+    "endMs": 42493,
+    "timestampMs": 42425,
+    "confidence": 1
+  },
+  {
+    "text": " телеграм:",
+    "startMs": 42493,
+    "endMs": 43010,
+    "timestampMs": 42493,
+    "confidence": 1
+  },
+  {
+    "text": " мовай",
+    "startMs": 43322,
+    "endMs": 43730,
+    "timestampMs": 43322,
+    "confidence": 1
+  },
+  {
+    "text": " би",
+    "startMs": 43730,
+    "endMs": 43906,
+    "timestampMs": 43730,
+    "confidence": 1
+  },
+  {
+    "text": " вай.",
+    "startMs": 43906,
+    "endMs": 44314,
+    "timestampMs": 43906,
+    "confidence": 1
+  }
+]

@@ -1,0 +1,12 @@
+/src/src/Movau.Domain/obj/Debug/net8.0/Movau.Domain.csproj.AssemblyReference.cache
+/src/src/Movau.Domain/obj/Debug/net8.0/Movau.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/src/src/Movau.Domain/obj/Debug/net8.0/Movau.Domain.AssemblyInfoInputs.cache
+/src/src/Movau.Domain/obj/Debug/net8.0/Movau.Domain.AssemblyInfo.cs
+/src/src/Movau.Domain/obj/Debug/net8.0/Movau.Domain.csproj.CoreCompileInputs.cache
+/src/src/Movau.Domain/bin/Debug/net8.0/Movau.Domain.deps.json
+/src/src/Movau.Domain/bin/Debug/net8.0/Movau.Domain.dll
+/src/src/Movau.Domain/bin/Debug/net8.0/Movau.Domain.pdb
+/src/src/Movau.Domain/obj/Debug/net8.0/Movau.Domain.dll
+/src/src/Movau.Domain/obj/Debug/net8.0/refint/Movau.Domain.dll
+/src/src/Movau.Domain/obj/Debug/net8.0/Movau.Domain.pdb
+/src/src/Movau.Domain/obj/Debug/net8.0/ref/Movau.Domain.dll

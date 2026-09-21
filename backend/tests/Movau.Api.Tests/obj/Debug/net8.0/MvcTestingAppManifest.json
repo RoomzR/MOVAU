@@ -1,0 +1,7 @@
+{
+  "Movau.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/src\/src\/Movau.Api",
+  "Movau.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/src\/src\/Movau.Application",
+  "Movau.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/src\/src\/Movau.Domain",
+  "Movau.Gateway, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/src\/src\/Movau.Gateway",
+  "Movau.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/src\/src\/Movau.Infrastructure"
+}

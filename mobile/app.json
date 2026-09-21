@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "MOVAŬ",
+    "slug": "movau",
+    "scheme": "movau",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true,
+      "infoPlist": {
+        "NSLocationWhenInUseUsageDescription": "Чтобы показать заявки рядом и трек смены"
+      }
+    },
+    "android": {
+      "permissions": [
+        "ACCESS_COARSE_LOCATION",
+        "ACCESS_FINE_LOCATION"
+      ]
+    },
+    "plugins": [
+      "expo-secure-store",
+      "expo-font",
+      "expo-asset"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NdqL5sXO03UFtIdNBh1DvPaitB1EsiBgKrKyflJMV+Y=",
+  "Source": "Movau.Gateway",
+  "BasePath": "_content/Movau.Gateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,17 @@
+/src/src/Movau.Application/bin/Debug/net8.0/Movau.Application.deps.json
+/src/src/Movau.Application/bin/Debug/net8.0/Movau.Application.dll
+/src/src/Movau.Application/bin/Debug/net8.0/Movau.Application.pdb
+/src/src/Movau.Application/bin/Debug/net8.0/Movau.Domain.dll
+/src/src/Movau.Application/bin/Debug/net8.0/Movau.Infrastructure.dll
+/src/src/Movau.Application/bin/Debug/net8.0/Movau.Domain.pdb
+/src/src/Movau.Application/bin/Debug/net8.0/Movau.Infrastructure.pdb
+/src/src/Movau.Application/obj/Debug/net8.0/Movau.Application.csproj.AssemblyReference.cache
+/src/src/Movau.Application/obj/Debug/net8.0/Movau.Application.GeneratedMSBuildEditorConfig.editorconfig
+/src/src/Movau.Application/obj/Debug/net8.0/Movau.Application.AssemblyInfoInputs.cache
+/src/src/Movau.Application/obj/Debug/net8.0/Movau.Application.AssemblyInfo.cs
+/src/src/Movau.Application/obj/Debug/net8.0/Movau.Application.csproj.CoreCompileInputs.cache
+/src/src/Movau.Application/obj/Debug/net8.0/Movau.Ap.FB3C9DE0.Up2Date
+/src/src/Movau.Application/obj/Debug/net8.0/Movau.Application.dll
+/src/src/Movau.Application/obj/Debug/net8.0/refint/Movau.Application.dll
+/src/src/Movau.Application/obj/Debug/net8.0/Movau.Application.pdb
+/src/src/Movau.Application/obj/Debug/net8.0/ref/Movau.Application.dll

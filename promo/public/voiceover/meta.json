@@ -1,0 +1,37 @@
+{
+  "fps": 30,
+  "fade": 12,
+  "totalFrames": 1375,
+  "scenes": [
+    {
+      "id": "01-hook",
+      "file": "voiceover/01-hook.mp3",
+      "sec": 8.112,
+      "frames": 260
+    },
+    {
+      "id": "02-problem",
+      "file": "voiceover/02-problem.mp3",
+      "sec": 9.216,
+      "frames": 293
+    },
+    {
+      "id": "03-steps",
+      "file": "voiceover/03-steps.mp3",
+      "sec": 13.224,
+      "frames": 414
+    },
+    {
+      "id": "04-country",
+      "file": "voiceover/04-country.mp3",
+      "sec": 6.72,
+      "frames": 219
+    },
+    {
+      "id": "05-cta",
+      "file": "voiceover/05-cta.mp3",
+      "sec": 7.32,
+      "frames": 237
+    }
+  ]
+}

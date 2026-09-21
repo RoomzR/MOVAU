@@ -1,0 +1,16 @@
+/src/src/Movau.Infrastructure/bin/Debug/net8.0/Movau.Infrastructure.deps.json
+/src/src/Movau.Infrastructure/bin/Debug/net8.0/Movau.Infrastructure.dll
+/src/src/Movau.Infrastructure/bin/Debug/net8.0/Movau.Infrastructure.pdb
+/src/src/Movau.Infrastructure/bin/Debug/net8.0/Movau.Domain.dll
+/src/src/Movau.Infrastructure/bin/Debug/net8.0/Movau.Domain.pdb
+/src/src/Movau.Infrastructure/obj/Debug/net8.0/Movau.Infrastructure.csproj.AssemblyReference.cache
+/src/src/Movau.Infrastructure/obj/Debug/net8.0/Movau.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/src/src/Movau.Infrastructure/obj/Debug/net8.0/Movau.Infrastructure.AssemblyInfoInputs.cache
+/src/src/Movau.Infrastructure/obj/Debug/net8.0/Movau.Infrastructure.AssemblyInfo.cs
+/src/src/Movau.Infrastructure/obj/Debug/net8.0/Movau.Infrastructure.csproj.CoreCompileInputs.cache
+/src/src/Movau.Infrastructure/obj/Debug/net8.0/EFCoreNpgsqlNetTopologySuite.cs
+/src/src/Movau.Infrastructure/obj/Debug/net8.0/Movau.In.A801C8F3.Up2Date
+/src/src/Movau.Infrastructure/obj/Debug/net8.0/Movau.Infrastructure.dll
+/src/src/Movau.Infrastructure/obj/Debug/net8.0/refint/Movau.Infrastructure.dll
+/src/src/Movau.Infrastructure/obj/Debug/net8.0/Movau.Infrastructure.pdb
+/src/src/Movau.Infrastructure/obj/Debug/net8.0/ref/Movau.Infrastructure.dll

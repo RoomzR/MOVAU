@@ -1,0 +1,66 @@
+name: ci
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  backend:
+    runs-on: ubuntu-latest
+    services:
+      postgres:
+        image: postgis/postgis:16-3.5
+        env:
+          POSTGRES_USER: movau
+          POSTGRES_PASSWORD: movau
+          POSTGRES_DB: movau
+        ports:
+          - 5432:5432
+        options: >-
+          --health-cmd "pg_isready -U movau -d movau"
+          --health-interval 5s
+          --health-timeout 5s
+          --health-retries 10
+      redis:
+        image: redis:7-alpine
+        ports:
+          - 6379:6379
+        options: >-
+          --health-cmd "redis-cli ping"
+          --health-interval 5s
+          --health-timeout 3s
+          --health-retries 10
+    defaults:
+      run:
+        working-directory: backend
+    env:
+      DATABASE_URL: postgresql://movau:movau@localhost:5432/movau
+      REDIS_URL: redis://localhost:6379/0
+      JWT_SECRET: ci-secret-not-for-production
+      CORS_ORIGINS: http://localhost:5173
+      ASPNETCORE_URLS: http://127.0.0.1:0
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: "8.0.x"
+      - name: Test
+        run: dotnet test Movau.sln --nologo -v q
+
+  frontend:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: frontend
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Install
+        run: npm install
+      - name: Build
+        run: npm run build
+        env:
+          VITE_API_URL: http://localhost:8000

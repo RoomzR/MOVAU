@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "f3Vkbak2os8=",
+  "success": true,
+  "projectFilePath": "/src/src/Movau.Gateway/Movau.Gateway.csproj",
+  "expectedPackageFiles": [
+    "/root/.nuget/packages/system.io.hashing/8.0.0/system.io.hashing.8.0.0.nupkg.sha512",
+    "/root/.nuget/packages/yarp.reverseproxy/2.2.0/yarp.reverseproxy.2.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

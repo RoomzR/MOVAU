@@ -1,0 +1,30 @@
+{
+  "name": "movau-promo",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "remotion studio --no-open",
+    "render": "remotion render MovauAd out/movau-ad.mp4",
+    "render:story": "remotion render MovauAdStory out/movau-ad-story.mp4",
+    "still": "remotion still MovauAd out/preview.png --frame=40",
+    "brand": "node scripts/logo-alpha.mjs && node scripts/render-brand.mjs"
+  },
+  "dependencies": {
+    "@remotion/captions": "^4.0.513",
+    "@remotion/cli": "^4.0.513",
+    "@remotion/google-fonts": "^4.0.513",
+    "@remotion/media": "^4.0.513",
+    "@remotion/transitions": "^4.0.513",
+    "music-metadata": "^11.15.0",
+    "node-edge-tts": "^1.2.10",
+    "puppeteer-core": "^25.8.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "remotion": "^4.0.513"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.8",
+    "pngjs": "^7.0.0",
+    "typescript": "^5.8.3"
+  }
+}

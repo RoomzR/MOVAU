@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "N08J+CqX2RI=",
+  "success": true,
+  "projectFilePath": "/src/src/Movau.Domain/Movau.Domain.csproj",
+  "expectedPackageFiles": [
+    "/root/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/root/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/root/.nuget/packages/nettopologysuite/2.5.0/nettopologysuite.2.5.0.nupkg.sha512",
+    "/root/.nuget/packages/npgsql/8.0.6/npgsql.8.0.6.nupkg.sha512",
+    "/root/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
